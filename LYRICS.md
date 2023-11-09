@@ -66,3 +66,17 @@ Ce coup vient d'un expert à la guerre\
 Vaillant praticien des arts martiens\
 Délégué pour mettre un terme à ces horreurs\
 Tel est mon labeur, tu sais de qui je défends l'honneur\
+
+# CHOEUR3 (Karl)
+
+L'École du micro dlargent\
+L 'École du micro d'argent\
+Je représente\
+L 'École du micro dlargent\
+L 'École du micro d'argent\
+Je représente\
+L 'École du micro dlargent\
+L 'École du micro dlargent\
+Je représente\
+L 'École du micro d'argent\
+L'École du micro d'argent\
