@@ -7,12 +7,12 @@ L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent\
 L'École du micro d'argent\
-L'École du micro d'argent\
+L'École du micro d'argent
 
 # Shurik'n (Karl)
 Assis en tailleur, voilà des heures que je médite\
 Sur ma montagne et je n'arrive pas à faire le vide\
-Je focalise sur le diaphragme,j'augmente mon énergie\
+Je focalise sur le diaphragme, j'augmente mon énergie\
 Réveille la bête qui dans mon âme est tapie\
 Je viens de terminer ma préparation mentale\
 Ils vont goûter à l'incomparable style du Serval\ 
@@ -28,9 +28,9 @@ Notre bannière flotte au sommet du Tsunami\
 Annonçant fièrement la charge du micro d'argent\
 En plein cœur de la batailleJe sème la terreur quand je frappe d'estoc et de taille\
 Je sens l'esprit du félin m'envahir\
-À ce stadeseul le sang me procure du plaisir\
+À ce stade seul le sang me procure du plaisir\
 Mes griffes gravent les couleurs de l'Empire\
-Plus grand que celui d'Alexandre dont je suis le défenseur\
+Plus grand que celui d'Alexandre dont je suis le défenseur
 
 # CHOEUR2(Antoine)
 L'École du micro d'argent\
@@ -43,12 +43,13 @@ L'École du micro d'argent\
 L'École du micro d'argent\
 Je représente\
 L'École du micro d'argent\
-L'École du micro d'argent\
+L'École du micro d'argent
 
 # Akhenaton
 Mon sabre scintille, je médite accroupi sous les branches d'un saule\
 Pleure, je défends l'honneur de mon école, fils\
-Le troisième œil scrute le terrain, la tactiqueÀ pratiquer, pour balayer l'ennemi, statique\
+Le troisième œil scrute le terrain, la tactique\
+À pratiquer, pour balayer l'ennemi, statique\
 Physiquement, les déplacements furtifs\
 De l'essence de mon esprit élabore les bases de ma stratégie\
 Donc je me dresse dans des cliquetis, bardé d'armes\
@@ -65,7 +66,7 @@ La bataille a débuté, tiens\
 Ce coup vient d'un expert à la guerre\
 Vaillant praticien des arts martiens\
 Délégué pour mettre un terme à ces horreurs\
-Tel est mon labeur, tu sais de qui je défends l'honneur\
+Tel est mon labeur, tu sais de qui je défends l'honneur
 
 # CHOEUR3 (Karl)
 
@@ -79,4 +80,4 @@ L 'École du micro dlargent\
 L 'École du micro dlargent\
 Je représente\
 L 'École du micro d'argent\
-L'École du micro d'argent\
+L'École du micro d'argent
